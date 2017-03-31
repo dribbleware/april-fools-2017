@@ -10,6 +10,26 @@
         }
     },
     {
+        "id" : "amazon",
+        "brand" : "Amazon",
+        "title" : "Amazon Echo with Petlexa",
+        "subtitle" : "Alexa now understands pets.",
+        "category" : "Tech",
+        "links" : {
+            "video" : "https://youtu.be/fdhxzqkvkZw"
+        }
+    },
+    {
+        "id" : "burgerking",
+        "brand" : "Burger King",
+        "title" : "Whopper Toothpaste",
+        "subtitle" : "The first toothpaste that keeps your mouth WHOPPER® fresh.",
+        "category" : "Food",
+        "links" : {
+            "video" : "https://youtu.be/-fCRqsQBvPY"
+        }
+    },
+    {
         "id" : "doordash",
         "brand" : "DoorDash",
         "title" : "Meal Override Mode aka M.O.M.",
@@ -43,7 +63,7 @@
         "id" : "google",
         "brand" : "Google",
         "title" : "Google Gnome",
-        "subtitle" : "The smart yeard is finally here",
+        "subtitle" : "The smart yard is finally here.",
         "category" : "Tech",
         "links" : {
             "video": "https://youtu.be/4C-Fpa4Pg94"
@@ -61,6 +81,16 @@
         }
     },
     {
+        "id" : "honda",
+        "brand" : "Honda",
+        "title" : "Horn Emojis",
+        "subtitle" : "Sound Emojis for every emotion right at your fingertips",
+        "category" : "Automobiles",
+        "links" : {
+            "video" : "https://youtu.be/B1qmmf6cYow"
+        }
+    },
+    {
         "id" : "ifixit",
         "brand" : "ifixit",
         "title" : "Micro Tech Toolkit",
@@ -68,6 +98,17 @@
         "category" : "Hardware",
         "links" : {
             "video" : "https://youtu.be/9Tn0XwnUO3o"
+        }
+    },
+    {
+        "id" : "kfc",
+        "brand" : "KFC",
+        "title" : "The Bucket - Voice-Activated Delivery and Smart Home Device",
+        "subtitle" : "Order KFC Delivery hands-free with voice control",
+        "category" : "Hardware",
+        "links" : {
+            "website" : "https://www.amazon.ca/dp/B06XY51MFS",
+            "video" : "https://youtu.be/E8tNm1pQtW8"
         }
     },
     {
@@ -123,6 +164,17 @@
         "links" : {
             "blog" : "https://stackoverflow.blog/2017/03/30/stack-overflow-unveils-next-steps-computer-security/",
             "video" : "https://youtu.be/VgC4b9K-gYU"
+        }
+    },
+    {
+        "id" : "tmobile",
+        "brand" : "T-Mobile",
+        "title" : "T-Mobile ONEsie",
+        "subtitle" : "ONEsie provides unparalleled access to the detailed bio-data you couldn't possibly need or ever hope to comprehend.",
+        "category" : "Wearable",
+        "links" : {
+            "website" : "http://t-mobile.com/onesie",
+            "video" : "https://youtu.be/8SqTwIF4p64"
         }
     },
     {
