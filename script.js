@@ -56,11 +56,8 @@
     }
 
     var Container = function () {
-        var itemsContainer = document.createElement('div');
-        itemsContainer.classList.add('items-container');
-
-        var alphabet = document.createElement('div');
-        alphabet.classList.add('items-alphabet');
+        var itemsContainer  = Element('div', 'items-container'),
+            alphabet        = Element('div', 'items-alphabet');
 
         itemsContainer.appendChild(alphabet);
 
@@ -69,32 +66,18 @@
 
     var Item = function () {
 
-        var itemWrap = document.createElement('div');
-        itemWrap.classList.add('item-wrap');
-
-        var brand = document.createElement('div');
-        brand.classList.add('item-brand');
-        brand.innerHTML = currentProduct.brand;
-
-        var title = document.createElement('div');
-        title.classList.add('item-title');
-        title.innerHTML = currentProduct.title;
-
-        var subtitle = document.createElement('div');
-        subtitle.classList.add('item-subtitle');
-        subtitle.innerHTML = currentProduct.subtitle;
-
-        var links = document.createElement('div');
-        links.classList.add('item-links');
+        var itemWrap    = Element('div', 'item-wrap'),
+            brand       = Element('div', 'item-brand', currentProduct.brand),
+            title       = Element('div', 'item-title', currentProduct.title),
+            subtitle    = Element('div', 'item-subtitle', currentProduct.subtitle),
+            links       = Element('div', 'item-links');
 
         if (currentProduct.links) {
             for (var link in currentProduct.links) {
                 if (currentProduct.links.hasOwnProperty(link)) {
-                    var el = document.createElement('a');
-                    el.classList.add('item-link');
+                    var el = Element('a', 'item-link', link);
 
                     el.href = currentProduct.links[link];
-                    el.innerHTML = link;
                     el.target = "_blank";
 
                     links.appendChild(el);
@@ -112,10 +95,24 @@
     }
 
     var Footer = function () {
-        var footer = document.createElement('footer');
-        footer.innerHTML = 'Made with lols at <a href="http://dribbleware.co" target="_blank">dribbleware</a>';
+        var text = 'Made with lols at <a href="http://dribbleware.co" target="_blank">dribbleware</a>'
+        var footer = Element('footer', null, text);
 
         return footer;
+    }
+
+    var Element = function (element, className, text) {
+        var el = document.createElement(element);
+        
+        if (className) {
+            el.classList.add(className);
+        }
+
+        if (text) {
+            el.innerHTML = text;
+        }
+
+        return el;
     }
 
 })();
