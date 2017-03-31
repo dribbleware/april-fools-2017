@@ -1,0 +1,138 @@
+[
+    {
+        "id" : "algolia",
+        "brand" : "Algolia",
+        "title" : "Algolia CSS API Client",
+        "subtitle" : "The power of Algolia distilled into a single .css file.",
+        "category" : "Web",
+        "links" : {
+            "website" : "https://community.algolia.com/algoliasearch-client-css/"
+        }
+    },
+    {
+        "id" : "doordash",
+        "brand" : "DoorDash",
+        "title" : "Meal Override Mode aka M.O.M.",
+        "subtitle" : "Introducing DoorDash M.O.M: Smarter Delivery for Growing Eaters",
+        "category" : "Tech",
+        "links" : {
+            "blog": "https://blog.doordash.com/introducing-doordash-m-o-m-smarter-delivery-for-growing-eaters-4a44ade592f1"
+        }
+    },
+    {
+        "id" : "duolingo",
+        "brand" : "Duolingo",
+        "title" : "Duolingo Emoji Classes",
+        "subtitle" : "Learn Emoji in just 5 minutes a day. For free.",
+        "category" : "Education",
+        "links" : {
+            "website" : "http://emoji.duolingo.com/"
+        }
+    },
+    {
+        "id" : "google",
+        "brand" : "Google",
+        "title" : "Google Wind",
+        "subtitle" : "Ensuring clear skies for everyone in Holland",
+        "category" : "Tech",
+        "links" : {
+            "video": "https://youtu.be/QAwL0O5nXe0"
+        }
+    },
+    {
+        "id" : "google",
+        "brand" : "Google",
+        "title" : "Google Gnome",
+        "subtitle" : "The smart yeard is finally here",
+        "category" : "Tech",
+        "links" : {
+            "video": "https://youtu.be/4C-Fpa4Pg94"
+        }
+    },
+    {
+        "id" : "google",
+        "brand" : "Google",
+        "title" : "Google Bubble Wrap",
+        "subtitle" : "Experience delightful days with Google Japanese Input Puchi Puchi version",
+        "category" : "Tech",
+        "links" : {
+            "video": "https://youtu.be/RkJZDvHMyTA",
+            "website" : "https://landing.google.co.jp/ime/ooooo/"
+        }
+    },
+    {
+        "id" : "ifixit",
+        "brand" : "ifixit",
+        "title" : "Micro Tech Toolkit",
+        "subtitle" : "The future of tech is getting smaller. Shouldn't your toolkit get smaller too?",
+        "category" : "Hardware",
+        "links" : {
+            "video" : "https://youtu.be/9Tn0XwnUO3o"
+        }
+    },
+    {
+        "id" : "lexus",
+        "brand" : "Lexus",
+        "title" : "Lexus LC - Lane Valet",
+        "subtitle" : "A visionary semiautonomous passing-lane-assistance technology.",
+        "category" : "Automobiles",
+        "link" : "http://www.lexus.com/lanevalet/",
+        "links" : {
+            "video" : "https://youtu.be/Tzqio8ig6Gk",
+            "website" : "http://www.lexus.com/lanevalet/"
+        }
+    },
+    {
+        "id" : "lyft",
+        "brand" : "Lyft",
+        "title" : "Mono - Autonomous Ride Hailing",
+        "subtitle" : "Lyft’s newest product, Mono, allows you to hail a ride by simply raising your hand. It’s autonomous ride hailing.",
+        "category" : "Transportation",
+        "links" : {
+            "blog" : "https://blog.lyft.com/posts/autonomous-ride-hailing",
+            "video" : "https://youtu.be/VP1Q5v0MT-4",
+            "website" : "http://take.lyft.com/mono/"
+        }
+    },
+    {
+        "id" : "producthunt",
+        "brand" : "Product Hunt",
+        "title" : "The Parking Book",
+        "subtitle" : "A collection of the best parking garages around the world.",
+        "category" : "Book",
+        "links" : {
+            "website" : "https://www.amazon.com/dp/B06XY33VRJ?ref=producthunt&tag=prodhunt04-20"
+        }
+    },
+    {
+        "id" : "reddit",
+        "brand" : "Reddit",
+        "title" : "r/place",
+        "subtitle" : "",
+        "category" : "Web",
+        "links" : {
+            "website" : "https://www.reddit.com/r/place/"
+        }
+    },
+    {
+        "id" : "stackoverflow",
+        "brand" : "Stack Overflow",
+        "title" : "Improve your security with Dance Dance Authentication",
+        "subtitle" : "Stack Overflow Unveils the Next Steps in Computer Security.",
+        "category" : "Web",
+        "links" : {
+            "blog" : "https://stackoverflow.blog/2017/03/30/stack-overflow-unveils-next-steps-computer-security/",
+            "video" : "https://youtu.be/VgC4b9K-gYU"
+        }
+    },
+    {
+        "id" : "yo",
+        "brand" : "Yo",
+        "title" : "Yo Stories",
+        "subtitle" : "Stories with absolutely no content.",
+        "category" : "Web",
+        "links" : {
+            "blog" : "https://medium.com/@YoAppStatus/introducing-yo-stories-515a04342be3?ref=producthunt"
+        }
+    }
+]

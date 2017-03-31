@@ -1,0 +1,14 @@
+header {
+    background: linear-gradient(to left, #f7c626, #e5127d);
+    padding-top: 5em;
+    padding-bottom: 5em;
+    .logo {
+        font-size: calc(10vmax - 6vmin);
+        font-family: 'Ultra', serif;
+        color: white;
+        mix-blend-mode: screen;
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 0.5em;
+    }
+}

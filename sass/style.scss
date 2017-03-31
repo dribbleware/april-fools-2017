@@ -1,0 +1,21 @@
+@import "header";
+@import "main";
+
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    width: 100%;
+    background-color: white;
+    color: #121212;
+}
+footer {
+    padding: 2em;
+    font-family: 'Montserrat', sans-serif;
+    text-align: right;
+    a {
+        text-decoration: none;
+        color: #e5127d;
+    }
+}
