@@ -52,11 +52,22 @@
     {
         "id" : "google",
         "brand" : "Google",
-        "title" : "Google Wind",
-        "subtitle" : "Ensuring clear skies for everyone in Holland",
+        "title" : "Mobile accessories for Chromebook",
+        "subtitle" : "A Chromebook Groupie Stick, A Chromebook Cardboard and A Chromebook Workout Armband",
+        "category" : "Hardware",
+        "links" : {
+            "blog": "https://blog.google/products/chromebooks/all-best-mobile-accessories-now-your-chromebook/"
+        }
+    },
+    {
+        "id" : "google",
+        "brand" : "Google",
+        "title" : "Google Bubble Wrap",
+        "subtitle" : "Experience delightful days with Google Japanese Input Puchi Puchi version",
         "category" : "Tech",
         "links" : {
-            "video": "https://youtu.be/QAwL0O5nXe0"
+            "video": "https://youtu.be/RkJZDvHMyTA",
+            "website" : "https://landing.google.co.jp/ime/ooooo/"
         }
     },
     {
@@ -72,12 +83,21 @@
     {
         "id" : "google",
         "brand" : "Google",
-        "title" : "Google Bubble Wrap",
-        "subtitle" : "Experience delightful days with Google Japanese Input Puchi Puchi version",
+        "title" : "Google Wind",
+        "subtitle" : "Ensuring clear skies for everyone in Holland",
         "category" : "Tech",
         "links" : {
-            "video": "https://youtu.be/RkJZDvHMyTA",
-            "website" : "https://landing.google.co.jp/ime/ooooo/"
+            "video": "https://youtu.be/QAwL0O5nXe0"
+        }
+    },
+    {
+        "id" : "google",
+        "brand" : "Google",
+        "title" : "Haptic Helpers",
+        "subtitle" : "Simulate aromas, tastes and physical sensations for VR",
+        "category" : "Tech",
+        "links" : {
+            "video": "https://youtu.be/3MA6_21nka8"
         }
     },
     {
