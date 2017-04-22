@@ -206,5 +206,16 @@
         "links" : {
             "blog" : "https://medium.com/@YoAppStatus/introducing-yo-stories-515a04342be3?ref=producthunt"
         }
+    },
+    {
+        "id" : "zappos",
+        "brand" : "Zappos",
+        "title" : "The In Secure Box from Zappos.com",
+        "subtitle" : "The invisible delivery box! If they can't see it, they can't steal it",
+        "category" : "Tech",
+        "links" : {
+            "website" : "http://www.zappos.com/insecurebox",
+            "video" : "https://youtu.be/Ihh4SwyvWXQ"
+        }
     }
 ]
